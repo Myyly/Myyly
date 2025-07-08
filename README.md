@@ -49,17 +49,20 @@ Mong muốn làm việc trong môi trường chuyên nghiệp để nâng cao k�
 
 ---
 
-## 🚀 Dự án cá nhân
+## 🚀 Dự án 
 
-### 📘 [Website học từ vựng tiếng Anh](https://github.com/Myyyly/wordy-neww)
+### 📘 [Website học từ vựng tiếng Anh](https://github.com/Myyyly/wordy-neww) (Dự án cá nhân)
 > **Vai trò**: Fullstack Developer  
 > **Công nghệ**: PHP Laravel, MySQL, HTML, CSS, JavaScript  
 > Xây dựng hệ thống học từ vựng cơ bản, chức năng đăng ký/đăng nhập, thêm/xoá từ, xác thực bằng Laravel Auth.  
-> 🔗 **Demo**: [wordy-neww-production.up.railway.app](https://wordy-neww-production.up.railway.app)
+> 🔗 **Demo**: [wordy-neww-production.up.railway.app](https://wordy-neww-production.up.railway.app)  
+> 👤 **Tài khoản dùng thử**:  
+> Email: `myylyy12@gmail.com`  
+> Mật khẩu: `123`
 
 ---
 
-### 🌐 [Mạng xã hội mini](https://github.com/Myyyly/LUK)
+### 🌐 [Mạng xã hội mini](https://github.com/Myyyly/LUK) (Dự án cá nhân)
 > **Vai trò**: Fullstack Developer  
 > **Công nghệ**: PHP, Node.js, MySQL, HTML, CSS, JavaScript  
 > Mạng xã hội cơ bản: đăng bài, bình luận, nhắn tin, kết bạn...
